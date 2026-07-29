@@ -17,4 +17,5 @@ This repository contains my hands-on Python assignments completed during the 1st
 Each notebook is named according to the assignment for easy navigation.
 ## Author
 **Glory Vivian Nnadiukwu**
-Connect with me https://www.linkedin.com/in/glory-nnadiukwu-178100322?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+**Connect wit’s me on linkedin**
+https://www.linkedin.com/in/glory-nnadiukwu-178100322?utm_source=share_via&utm_content=profile&utm_medium=member_ios

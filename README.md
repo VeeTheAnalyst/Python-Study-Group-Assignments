@@ -1,4 +1,4 @@
-  # Python-Study-Group-Assignments 
+  # Python-Study-Group-Hands-On
 # Overview
 This repository contains my hands-on Python assignments completed during the 1st semester in the Python Study Group.Each notebook covers different Python concepts and practical that has helped strengthen my programming skills.
 ## Topics Covered
